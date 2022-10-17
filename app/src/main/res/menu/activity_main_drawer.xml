@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+
+
+
+        <item
+            android:id="@+id/nav_interface"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Go Absensi" />
+
+        <item
+            android:id="@+id/nav_history_absen"
+            android:icon="@drawable/ic_menu_send"
+            android:title="History Absensi" />
+
+
+        <item
+            android:id="@+id/nav_lap_sibahanpe"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Laporan TPP" />
+
+
+        <item
+            android:id="@+id/nav_dinas_luar"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Dinas Luar" />
+
+
+        <item
+            android:id="@+id/nav_cuti_sakit"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Cuti Sakit/Sakit" />
+
+
+        <item
+            android:id="@+id/nav_cuti_lain"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Cuti Alasan Penting" />
+
+
+<!--
+        <item
+            android:id="@+id/nav_ket_sah"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Ijin Ket.Sah" />
+-->
+
+        <item
+            android:id="@+id/nav_cuti_tahunan"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Cuti Tahunan" />
+
+<!--
+        <item
+            android:id="@+id/nav_sibahanpe"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Alternative" />
+-->
+    </group>
+
+    <!--
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+    -->
+
+</menu>

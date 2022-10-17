@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sibahanpe Guru</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="spinner_bulan">Pilih Bulan</string>
+    <string name="spinner_tahun">Pilih Tahun</string>
+    <string name="pilih_gambar">Pilih Gambar terbaik untuk laporan anda.</string>
+</resources>
